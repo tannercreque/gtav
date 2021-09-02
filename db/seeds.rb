@@ -29,3 +29,17 @@ Vehicle.create(
     code: "akuma",
     price: 9000 ,
 )
+Vehicle.create(
+    name: "Alpha",
+    speed: "117",
+    category: "Sports",
+    code: "alpha",
+    price: 45000 ,
+)
+Vehicle.create(
+    name: "Asbo",
+    speed: "86",
+    category: "Compacts",
+    code: "aasbo",
+    price: 5000 ,
+)
